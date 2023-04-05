@@ -10,7 +10,6 @@
   },
   "license": "MIT",
   "dependencies": {
-    "@fontsource/iosevka": "^4.5.4",
     "@solidjs/router": "^0.8.2",
     "@tanstack/solid-query": "^4.19.1",
     "clsx": "^1.2.1",

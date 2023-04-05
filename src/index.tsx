@@ -2,7 +2,6 @@
 import { render } from "solid-js/web"
 
 import "./index.css"
-import "@fontsource/iosevka"
 import { App } from "./App"
 import { Router } from "@solidjs/router"
 import { QueryClient, QueryClientProvider } from "@tanstack/solid-query"

@@ -1,0 +1,8 @@
+/node_modules
+/dist
+/.idea
+/.yarn/cache/
+/.yarn/unplugged/
+/.yarn/install-state.gz
+/.pnp.cjs
+/.pnp.loader.mjs
